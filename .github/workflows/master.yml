@@ -17,4 +17,4 @@ jobs:
         server: 192.236.176.10
         username: test@threearrowstech.com
         password: ${{ secrets.ftp_password }}
-        server-dir: /public_html/threearrowstech.com/test/production/
+        server-dir: /production/
